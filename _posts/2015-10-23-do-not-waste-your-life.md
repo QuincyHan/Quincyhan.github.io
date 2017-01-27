@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Test"
+title:  "人不能浑浑噩噩的活着"
 date:   2016-03-15
 excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
 tag:
