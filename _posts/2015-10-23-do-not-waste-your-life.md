@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "Do Not Waste Your Life"
-date: 2015-10-23
-excerpt: "When the day comes, I will say that I don't regret it"
+title:  "A Test"
+date:   2016-03-15
+excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
 tag:
-- life
+- sample
+- post
+- video
 comments: true
 ---
 
