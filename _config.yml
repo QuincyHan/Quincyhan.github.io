@@ -49,7 +49,7 @@ github-url:         QuincyHan
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              lingzhi2905
+# steam:              lingzhi2905
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
@@ -60,6 +60,7 @@ weibo:             quincyhan15
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
+#neteasemusic:      
 
 # Gems
 gems:
