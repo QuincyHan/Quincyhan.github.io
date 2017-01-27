@@ -24,7 +24,6 @@ mathjax:            true
 sass:
   sass_dir:         _sass
   style:            compressed
-encoding: utf-8
 # Comments
 disqus_shortname:   quincyhan
 
