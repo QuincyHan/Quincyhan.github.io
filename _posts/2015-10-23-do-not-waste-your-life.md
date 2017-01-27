@@ -2,11 +2,9 @@
 layout: post
 title:  "人不能浑浑噩噩的活着"
 date:   2016-03-15
-excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
+excerpt: "我们害怕平庸，想逃离平庸的自己，但是，没有努力没有奋斗的逃避现实，只能将我们引向平庸啊"
 tag:
-- sample
-- post
-- video
+- "生活杂谈"
 comments: true
 ---
 
