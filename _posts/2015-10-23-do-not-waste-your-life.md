@@ -1,9 +1,10 @@
 ---
 layout: post
-title: 人不能浑浑噩噩的活着
-date:  2012-05-22
-excerpt: "When the day comes I will say "I want it .I get it.I don’t regret it.""
-tags: [生活杂谈]
+title: "Do Not Waste Your Life"
+date: 2015-10-23
+excerpt: "When the day comes, I will say that I don't regret it"
+tag:
+- life
 comments: true
 ---
 
